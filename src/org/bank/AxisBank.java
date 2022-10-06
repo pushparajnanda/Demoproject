@@ -4,6 +4,8 @@ public class AxisBank extends BankInfo {
 	
 	public void deposit() {
 		System.out.println("deposit percentage is 5%");
+		System.out.println("deposit percentage is 10%");
+		
 	}
 	
 	public static void main(String[] args) {
