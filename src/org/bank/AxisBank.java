@@ -5,6 +5,8 @@ public class AxisBank extends BankInfo {
 	public void deposit() {
 		System.out.println("deposit percentage is 5%");
 		System.out.println("Pushparaj deposit percentage is 10%");
+		System.out.println("Pushparaj Fixed deposit percentage is 12%");
+		System.out.println("Nanda Fixed deposit percentage is 10%");
 		
 	}
 	
